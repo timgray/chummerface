@@ -1,0 +1,39 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Tim Gray",
+    "longName": "Hello Chummer Watch Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "menuIcon": true,
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Hello Chummer",
+    "uuid": "23396b72-235e-4e7a-b2a6-85c21ca6e3cb",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
